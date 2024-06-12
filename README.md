@@ -7,7 +7,9 @@ This project contains a Customer Engagement Analysis Dashboard created using tec
 Interactive Visualizations: Dynamic charts and graphs to visualize customer engagement.
 
 Customer Segmentation: Identifies and segments customers based on engagement levels.
+
 Trend Analysis: Tracks and analyzes engagement trends over time.
+
 Data Export: Functionality to export data and visualizations for further analysis.
 
 ## Data
