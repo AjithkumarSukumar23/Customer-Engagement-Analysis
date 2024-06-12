@@ -13,7 +13,7 @@ Trend Analysis: Tracks and analyzes engagement trends over time.
 Data Export: Functionality to export data and visualizations for further analysis.
 
 ## Data
-The dashboard includes sample customer engagement data. To use your own data, replace the sample data files with your data in the same format.
+The dashboard includes sample customer engagement data. To use our data which we gpt from the internet source,  Clean the data and make it in the same format.
 
 
 
